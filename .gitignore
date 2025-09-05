@@ -1,0 +1,5 @@
+# Ignorar archivos compilados
+*.exe
+
+# Ignorar carpetas de pruebas temporales
+.cph/
